@@ -1,9 +1,8 @@
 menu:
-- {name: 'people', url: '/people'}
-- {name: 'publications', url: '/publications'}
-- {name: 'courses', url: '/courses'}
-- {name: 'cv', url: '/cv'}
-- {name: 'contact', url: '/contact'}
+- {name: 'publications', url: '/publications.html'}
+- {name: 'gallery', url: '/gallery.html'}
+- {name: 'cv', url: '/cv.html'}
+- {name: 'contact', url: '/contact.html'}
 
 people:
 - {name: 'Primary Investigator', title: 'Researcher', department: 'Physics & Astronomy', institution: 'Some University', institution_address: '1 Main Street, Canada', phone: '(000) 000-0000', email: 'hello@university.edu', office: 'Science Building 505', image: 'assets/img/primary-investigator.jpg', url: 'primary-investigator'}
@@ -22,4 +21,4 @@ social:
 - {icon: 'linkedin', link: 'https://linkedin.com/in/lenpaul'}
 
 contacts:
-- {name: 'Dr. Academia', title: 'Professor', department: 'Physics & Astronomy', institution: 'Some University', institution_address: '1 Main Street, Canada', phone: '(000) 000-0000', email: 'hello@university.edu', office: 'Science Building 505', image: 'assets/img/contact.jpg'}
+- {name: 'Yu Mao', title: '', department: 'Department of Computer Science', institution: 'City University of Hong Kong', institution_address: '83 Tat Chee Avenue', district: 'Kowloon', city: 'Hong Kong', phone: '(000) 000-0000', email: 'yumao7-c [a] my.cityu.edu.hk', office: 'MMW-3402', image: 'assets/img/home.jpg'}
