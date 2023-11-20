@@ -39,8 +39,9 @@ layout: default
       </div>
       <div class="col-md-10">
         {% for section in site.data.cv.internships %}
-          <p class="fw-bold">{{ section.title }}</p>
-          <p>{{ section.description }}</p>
+          <p class="fw-bold">{{ section.description }}</p>
+          <p>{{ section.title }}</p>
+          <p>{{ section.location }}; {{ section.period }}</p>
         {% endfor %}
       </div>
     </div>
