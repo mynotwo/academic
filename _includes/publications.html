@@ -3,7 +3,17 @@
     <h3 class="fw-bold border-bottom pb-3 mb-5">Publications</h3>
     {% if page.title == "Home" %}
       {% for item in site.data.publications.featured %}
-        <p><a href="{{ item.url }}">{{ item.name }}</a></p>
+        <p><b>{{ item.name }}</b>
+        <br>
+        {{item.author}}<br>
+        {{item.venue}}<br>
+        {% if item.url != "" %}  
+          <a href="{{ item.url }}">[Paper]</a>
+        {% endif %}
+        {% if item.slide != "" %}  
+          <a href="{{ item.slide }}">[Slides]</a>
+        {% endif %}
+        </p>
       {% endfor %}
     {% else %}
       {% for item in site.data.publications.index %}
