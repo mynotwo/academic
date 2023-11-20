@@ -15,10 +15,10 @@ courses:
 - {name: 'Stellar Structures', url: 'stellar-structures'}
 
 social:
-- {icon: 'github', link: 'https://github.com/LeNPaul'}
+- {icon: 'github', link: 'https://github.com/mynotwo'}
 - {icon: 'twitter', link: 'https://twitter.com/paululele'}
 - {icon: 'instagram', link: 'https://instagram.com/paululele'}
 - {icon: 'linkedin', link: 'https://linkedin.com/in/lenpaul'}
 
 contacts:
-- {name: 'Yu Mao', title: '', department: 'Department of Computer Science', institution: 'City University of Hong Kong', institution_address: '83 Tat Chee Avenue', district: 'Kowloon', city: 'Hong Kong', phone: '(000) 000-0000', email: 'yumao7-c [a] my.cityu.edu.hk', office: 'MMW-3402', image: 'assets/img/home.jpg'}
+- {name: 'Yu Mao', title: '', department: 'Department of Computer Science', institution: 'City University of Hong Kong', institution_address: '83 Tat Chee Avenue', district: 'Kowloon', city: 'Hong Kong', phone: '(852) 97003256', email: 'yumao7-c [a] my.cityu.edu.hk', office: 'MMW-3402', image: 'assets/img/home.jpg'}
