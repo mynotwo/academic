@@ -1,4 +1,4 @@
 ---
-layout: research
-title: "Research"
+layout: CV
+title: "CV"
 ---
