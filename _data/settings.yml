@@ -1,6 +1,5 @@
 menu:
 - {name: 'Research', url: '/research.html'}
-- {name: 'Teaching', url: '/courses.html'}
 - {name: 'Gallery', url: '/gallery.html'}
 - {name: 'Contact', url: '/contact.html'}
 
@@ -16,8 +15,7 @@ courses:
 
 social:
 - {icon: 'github', link: 'https://github.com/mynotwo'}
-- {icon: 'twitter', link: 'https://twitter.com/paululele'}
-- {icon: 'instagram', link: 'https://instagram.com/paululele'}
+- {icon: 'google scholar', link: 'https://twitter.com/paululele'}
 - {icon: 'linkedin', link: 'https://linkedin.com/in/lenpaul'}
 
 contacts:
