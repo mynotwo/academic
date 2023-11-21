@@ -1,1 +1,5 @@
+---
+layout: Gallery
+title: "Gallery"
+---
 
